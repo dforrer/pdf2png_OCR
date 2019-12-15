@@ -1,0 +1,17 @@
+{
+  "name": "pdf2png",
+  "version": "1.0.0",
+  "description": "pdf2png",
+  "main": "main.js",
+  "keywords": [
+    "pdf.js"
+  ],
+  "author": "Daniel Forrer",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.0",
+    "gulp": "^4.0.2",
+    "pdfjs-dist": "",
+    "tesseract.js": "^2.0.0-beta.2"
+  }
+}
